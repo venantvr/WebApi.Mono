@@ -1,3 +1,3 @@
 # WebService
 
-POC for prototyping WebApi under Mono/Linux
+POC for prototyping WebApi under Mono/Linux/Docker
