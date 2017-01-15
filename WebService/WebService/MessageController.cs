@@ -5,15 +5,22 @@ using Microsoft.Owin.Hosting;
 using System.Web.Http;
 using System.Collections.Generic;
 using System.Net;
+using System.Web.Http.Cors;
 
 namespace WebService
 {
+    [EnableCors(origins: "*", headers: "*", methods: "*")]
     public class MessageController : ApiController
     {
         // GET api/values
         public Message Get()
         { 
-            return new Message(){ Now = DateTime.Now, WhoAmI = Dns.GetHostEntry(Dns.GetHostName()).HostName, Content = @"Nice to see you !" }; 
+            return new Message()
+            {
+                Now = DateTime.Now, 
+                WhoAmI = Dns.GetHostEntry(Dns.GetHostName()).HostName, 
+                Content = @"Nice to see you !"
+            }; 
         }
 
         // GET api/values/5

@@ -11,7 +11,7 @@ namespace WebService
     {
         static void Main(string[] args)
         {
-            string baseUrl = "http://localhost:1234";
+            string baseUrl = "http://*:1234";
 
             using (WebApp.Start<Startup>(baseUrl))
             {

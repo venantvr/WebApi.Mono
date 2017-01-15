@@ -8,7 +8,9 @@
 /home/rvv/Source/WebService/WebService/WebService/bin/Debug/Microsoft.Owin.Diagnostics.dll
 /home/rvv/Source/WebService/WebService/WebService/bin/Debug/Microsoft.Owin.Hosting.dll
 /home/rvv/Source/WebService/WebService/WebService/bin/Debug/Microsoft.Owin.Host.HttpListener.dll
-/home/rvv/Source/WebService/WebService/WebService/bin/Debug/Newtonsoft.Json.dll
 /home/rvv/Source/WebService/WebService/WebService/bin/Debug/System.Net.Http.Formatting.dll
 /home/rvv/Source/WebService/WebService/WebService/bin/Debug/System.Web.Http.dll
 /home/rvv/Source/WebService/WebService/WebService/bin/Debug/System.Web.Http.Owin.dll
+/home/rvv/Source/WebService/WebService/WebService/bin/Debug/Newtonsoft.Json.dll
+/home/rvv/Source/WebService/WebService/WebService/bin/Debug/System.Web.Cors.dll
+/home/rvv/Source/WebService/WebService/WebService/bin/Debug/System.Web.Http.Cors.dll
