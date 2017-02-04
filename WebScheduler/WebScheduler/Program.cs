@@ -5,13 +5,13 @@ using Microsoft.Owin.Hosting;
 using System.Web.Http;
 using System.Collections.Generic;
 
-namespace WebService
+namespace WebScheduler
 {
     class Program
     {
         static void Main(string[] args)
         {
-            string baseUrl = "http://*:1234";
+            string baseUrl = "http://*:5678";
 
             using (WebApp.Start<Startup>(baseUrl))
             {
