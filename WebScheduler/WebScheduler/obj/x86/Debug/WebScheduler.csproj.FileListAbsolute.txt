@@ -1,1 +1,0 @@
-C:\Users\Rénald\Source\Repos\WebApi.Mono\WebScheduler\WebScheduler\bin\Debug\WebScheduler.exe.config
