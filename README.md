@@ -15,7 +15,4 @@ POC WebApi sous Mono/Linux/Docker : scheduling de taches avec FluentScheduler et
 
 ## Stack
 
-- C# / Mono
-- Owin (self-hosted)
-- FluentScheduler
-- Docker / Linux
+[![Stack](https://skillicons.dev/icons?i=dotnet,docker,linux,cs&theme=dark)](https://skillicons.dev)
